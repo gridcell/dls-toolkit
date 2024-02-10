@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+env1/
+env2/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Dependency directories
+lib/
+libs/
+library/
+libraries/
+
+# Build files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Testing
+test/
+tests/
+pytest.ini
+coverage.xml
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+.DS_Store
+
+.envrc
+creds.json
