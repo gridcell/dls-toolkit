@@ -33,12 +33,6 @@ dist/
 *.sqlite3
 db.sqlite3
 
-# Testing
-test/
-tests/
-pytest.ini
-coverage.xml
-
 # Miscellaneous
 *.bak
 *.swp
@@ -47,3 +41,7 @@ coverage.xml
 
 .envrc
 creds.json
+
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
